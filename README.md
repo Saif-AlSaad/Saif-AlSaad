@@ -9,7 +9,6 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-saif.dev-0F2027?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saif.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-al-saad-326864275/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alsaad15062002@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/saif.al.saad.195251)
