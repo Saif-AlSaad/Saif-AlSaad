@@ -9,6 +9,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-saif.dev-0F2027?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saif.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-al-saad-326864275/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alsaad15062002@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/saif.al.saad.195251)
@@ -25,12 +26,12 @@
 I'm a **Software Engineering** student at **Daffodil International University**, majoring in **Software Quality Assurance & Testing**. I care about shipping software that works, and about building the tests and automation that prove it.
 
 ```yaml
-Name:      Saif Al Saad
-Education: BSc in Software Engineering, Daffodil International University
-Major:     Software Quality Assurance & Testing
-Focus:     [Manual Testing, Test Automation, Full-Stack Projects]
-Learning:  [Playwright, API Testing, CI/CD, System Design]
-Mindset:   "Always learning, experimenting, and improving."
+name:      Saif Al Saad
+education: BSc in Software Engineering, Daffodil International University
+major:     Software Quality Assurance & Testing
+focus:     [Manual Testing, Test Automation, Full-Stack Projects]
+learning:  [Playwright, API Testing, CI/CD, System Design]
+mindset:   "Always learning, experimenting, and improving."
 ```
 
 ### 🎯 What I Do
@@ -114,22 +115,16 @@ Mindset:   "Always learning, experimenting, and improving."
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Saif-AlSaad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saif-AlSaad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=Saif-AlSaad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Saif-AlSaad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=Saif-AlSaad&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saif-AlSaad&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
+<br/><br/>
 
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Saif-AlSaad&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
+<img src="https://ghchart.rshah.org/36BCF7/Saif-AlSaad" alt="Contribution chart" width="90%"/>
 
 </div>
 
