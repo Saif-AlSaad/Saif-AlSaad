@@ -25,12 +25,12 @@
 I'm a **Software Engineering** student at **Daffodil International University**, majoring in **Software Quality Assurance & Testing**. I care about shipping software that works, and about building the tests and automation that prove it.
 
 ```yaml
-name:      Saif Al Saad
-education: BSc in Software Engineering, Daffodil International University
-major:     Software Quality Assurance & Testing
-focus:     [Manual Testing, Test Automation, Full-Stack Projects]
-learning:  [Playwright, API Testing, CI/CD, System Design]
-mindset:   "Always learning, experimenting, and improving."
+Name:      Saif Al Saad
+Education: BSc in Software Engineering, Daffodil International University
+Major:     Software Quality Assurance & Testing
+Focus:     [Manual Testing, Test Automation, Full-Stack Projects]
+Learning:  [Playwright, API Testing, CI/CD, System Design]
+Mindset:   "Always learning, experimenting, and improving."
 ```
 
 ### 🎯 What I Do
