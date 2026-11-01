@@ -123,7 +123,33 @@ Mindset:   "Always learning, experimenting, and improving."
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/36BCF7/Saif-AlSaad" alt="Contribution chart" width="90%"/>
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <b>🗓️ My Contributions Over the Last 12 Months</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <br/>
+      <img src="https://ghchart.rshah.org/A855F7/Saif-AlSaad" alt="Contribution chart" width="95%"/>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <sub>⬜ Less &nbsp;→&nbsp; 🟪 More &nbsp;|&nbsp; Updates automatically from my GitHub activity</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 </div>
 
