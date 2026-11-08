@@ -130,27 +130,32 @@ Mindset:   "Always learning, experimenting, and improving."
 
 <div align="center">
 
-<table width="100%">
+### My GitHub Contributions
+
+<p>
+  <i>A visual overview of my coding activity over the past 12 months.</i>
+</p>
+
+<img
+  src="https://ghchart.rshah.org/A855F7/Saif-AlSaad"
+  alt="GitHub Contribution Graph"
+  width="100%"
+/>
+
+<table>
   <tr>
     <td align="center">
-      <b>🗓️ My Contributions Over the Last 12 Months</b>
+      <sub>⬜ Less Contributions</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <br/>
-      <img src="https://ghchart.rshah.org/A855F7/Saif-AlSaad" alt="Contribution chart" width="95%"/>
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <sub>⬜ Less &nbsp;→&nbsp; 🟪 More &nbsp;|&nbsp; Updates automatically from my GitHub activity</sub>
+      <sub>🟪 More Contributions</sub>
     </td>
   </tr>
 </table>
 
-</div>
+<p>
+  <sub>⚡ Automatically updated based on my GitHub activity.</sub>
+</p>
 
 </div>
 
