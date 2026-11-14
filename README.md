@@ -225,13 +225,7 @@ Mindset:   "Always learning, experimenting, and improving."
 </p>
 
 <!-- GitHub Streak Statistics -->
-<p>
-  <img
-    src="https://streak-stats.demolab.com?user=Saif-AlSaad&theme=transparent&ring=84A98C&fire=84A98C&currStreakNum=52796F&sideNums=52796F&currStreakLabel=84A98C&sideLabels=84A98C&dates=84A98C&border=52796F&hide_border=false&border_radius=12"
-    alt="GitHub Streak"
-    height="170"
-  />
-</p>
+
 
 <!-- GitHub Contribution Snake Animation -->
 <picture>
