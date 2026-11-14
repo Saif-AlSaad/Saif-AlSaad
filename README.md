@@ -165,9 +165,9 @@ Mindset:   "Always learning, experimenting, and improving."
 
 <!-- Animated snake eating the contribution boxes -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saif-AlSaad/Saif-AlSaad/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saif-AlSaad/Saif-AlSaad/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Saif-AlSaad/Saif-AlSaad/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/contributions-light.svg" />
+  <img alt="Saif's GitHub Contribution Graph" src="assets/contributions-light.svg" width="100%" />
 </picture>
 
 <p>
