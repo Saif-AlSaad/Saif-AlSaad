@@ -130,34 +130,34 @@ Mindset:   "Always learning, experimenting, and improving."
 
 <div align="center">
 
-### 🟪 My GitHub Contributions
+### 🌿 My GitHub Contributions
 
 <p>
   <i>A live overview of my coding activity over the past 12 months.</i>
 </p>
 
-<!-- Contribution graph (auto switches for dark / light mode) -->
+<!-- Contribution graph (earthy green, auto switches for dark / light mode) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/A855F7/Saif-AlSaad" />
-  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/7E22CE/Saif-AlSaad" />
-  <img alt="Saif's GitHub Contribution Graph" src="https://ghchart.rshah.org/A855F7/Saif-AlSaad" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/84A98C/Saif-AlSaad" />
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/52796F/Saif-AlSaad" />
+  <img alt="Saif's GitHub Contribution Graph" src="https://ghchart.rshah.org/52796F/Saif-AlSaad" width="100%" />
 </picture>
 
-<!-- Legend like GitHub's own -->
+<!-- Legend -->
 <p>
   <sub>Less</sub>
-  <img src="https://img.shields.io/badge/-%20-ebedf0?style=flat-square" height="12" />
-  <img src="https://img.shields.io/badge/-%20-e9d5ff?style=flat-square" height="12" />
-  <img src="https://img.shields.io/badge/-%20-c084fc?style=flat-square" height="12" />
-  <img src="https://img.shields.io/badge/-%20-9333ea?style=flat-square" height="12" />
-  <img src="https://img.shields.io/badge/-%20-581c87?style=flat-square" height="12" />
+  <img src="https://img.shields.io/badge/-%20-CAD2C5?style=flat-square" height="12" />
+  <img src="https://img.shields.io/badge/-%20-84A98C?style=flat-square" height="12" />
+  <img src="https://img.shields.io/badge/-%20-52796F?style=flat-square" height="12" />
+  <img src="https://img.shields.io/badge/-%20-354F52?style=flat-square" height="12" />
+  <img src="https://img.shields.io/badge/-%20-2F3E46?style=flat-square" height="12" />
   <sub>More</sub>
 </p>
 
-<!-- Streak + stats -->
+<!-- Streak card -->
 <p>
   <img
-    src="https://streak-stats.demolab.com?user=Saif-AlSaad&theme=transparent&ring=A855F7&fire=F97316&currStreakNum=A855F7&sideNums=A855F7&currStreakLabel=F97316&sideLabels=9CA3AF&dates=6B7280&border=A855F7&hide_border=false&border_radius=12"
+    src="https://streak-stats.demolab.com?user=Saif-AlSaad&theme=transparent&ring=84A98C&fire=84A98C&currStreakNum=52796F&sideNums=52796F&currStreakLabel=84A98C&sideLabels=84A98C&dates=84A98C&border=52796F&hide_border=false&border_radius=12"
     alt="GitHub Streak"
     height="170"
   />
@@ -175,7 +175,6 @@ Mindset:   "Always learning, experimenting, and improving."
 </p>
 
 </div>
-
 ---
 
 ## 🎯 Currently
