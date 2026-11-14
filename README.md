@@ -111,18 +111,76 @@ Mindset:   "Always learning, experimenting, and improving."
 
 ---
 
-## 📊 GitHub Stats
+
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=Saif-AlSaad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Saif-AlSaad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<h3>⚡ Developer Performance Dashboard</h3>
+
+<p>
+  <i>Tracking my development journey, coding activity and technical growth.</i>
+</p>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Saif-AlSaad&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<!-- ================= GITHUB OVERVIEW ================= -->
 
-<br/><br/>
+<table border="0" width="100%">
+<tr>
+<td align="center" width="50%">
+
+**📈 GITHUB OVERVIEW**
+
+<img
+  src="https://github-readme-stats.shion.dev/api?username=Saif-AlSaad&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&title_color=84A98C&text_color=C9D1D9&icon_color=84A98C&bg_color=0D1117"
+  width="100%"
+  alt="GitHub Statistics"
+/>
+
+</td>
+<td align="center" width="50%">
+
+**💻 MOST USED LANGUAGES**
+
+<img
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=Saif-AlSaad&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=84A98C&text_color=C9D1D9&bg_color=0D1117"
+  width="100%"
+  alt="Top Languages"
+/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ================= CONTRIBUTION STREAK ================= -->
+
+**🔥 CONTRIBUTION STREAK**
+
+<p>
+  <img
+    src="https://streak-stats.demolab.com/?user=Saif-AlSaad&theme=transparent&hide_border=true&background=0D1117&ring=84A98C&fire=84A98C&currStreakNum=E6EDF3&sideNums=C9D1D9&currStreakLabel=84A98C&sideLabels=84A98C&dates=8B949E&stroke=52796F"
+    width="75%"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<br/>
+
+<!-- ================= FOOTER ================= -->
+
+<p>
+  <sub>
+    🌱 Consistency over perfection. Every commit is a step forward.
+  </sub>
+</p>
+
+</div>
+
+
 
 ---
 
