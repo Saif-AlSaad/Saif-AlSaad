@@ -126,6 +126,8 @@ Mindset:   "Always learning, experimenting, and improving."
 
 ---
 
+
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -136,25 +138,35 @@ Mindset:   "Always learning, experimenting, and improving."
   <i>A live overview of my coding activity over the past 12 months.</i>
 </p>
 
-<!-- Contribution graph (earthy green, auto switches for dark / light mode) -->
+<!-- Dark / Light Contribution Graph -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/84A98C/Saif-AlSaad" />
-  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/52796F/Saif-AlSaad" />
-  <img alt="Saif's GitHub Contribution Graph" src="https://ghchart.rshah.org/52796F/Saif-AlSaad" width="100%" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://ghchart.xqsit94.in/dark:84a98c/Saif-AlSaad"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://ghchart.xqsit94.in/light:52796f/Saif-AlSaad"
+  />
+  <img
+    alt="Saif's GitHub Contribution Graph"
+    src="https://ghchart.xqsit94.in/dark:84a98c/Saif-AlSaad"
+    width="100%"
+  />
 </picture>
 
-<!-- Legend -->
+<!-- Contribution Legend -->
 <p>
   <sub>Less</sub>
-  <img src="https://img.shields.io/badge/-%20-CAD2C5?style=flat-square" height="12" />
-  <img src="https://img.shields.io/badge/-%20-84A98C?style=flat-square" height="12" />
+  <img src="https://img.shields.io/badge/-%20-161B22?style=flat-square" height="12" />
   <img src="https://img.shields.io/badge/-%20-52796F?style=flat-square" height="12" />
-  <img src="https://img.shields.io/badge/-%20-354F52?style=flat-square" height="12" />
-  <img src="https://img.shields.io/badge/-%20-2F3E46?style=flat-square" height="12" />
+  <img src="https://img.shields.io/badge/-%20-84A98C?style=flat-square" height="12" />
+  <img src="https://img.shields.io/badge/-%20-A3B18A?style=flat-square" height="12" />
+  <img src="https://img.shields.io/badge/-%20-DAD7CD?style=flat-square" height="12" />
   <sub>More</sub>
 </p>
 
-<!-- Streak card -->
+<!-- GitHub Streak Statistics -->
 <p>
   <img
     src="https://streak-stats.demolab.com?user=Saif-AlSaad&theme=transparent&ring=84A98C&fire=84A98C&currStreakNum=52796F&sideNums=52796F&currStreakLabel=84A98C&sideLabels=84A98C&dates=84A98C&border=52796F&hide_border=false&border_radius=12"
@@ -163,11 +175,21 @@ Mindset:   "Always learning, experimenting, and improving."
   />
 </p>
 
-<!-- Animated snake eating the contribution boxes -->
+<!-- GitHub Contribution Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saif-AlSaad/Saif-AlSaad/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saif-AlSaad/Saif-AlSaad/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Saif-AlSaad/Saif-AlSaad/output/github-snake-dark.svg" width="100%" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Saif-AlSaad/Saif-AlSaad/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Saif-AlSaad/Saif-AlSaad/output/github-snake.svg"
+  />
+  <img
+    alt="Contribution snake animation"
+    src="https://raw.githubusercontent.com/Saif-AlSaad/Saif-AlSaad/output/github-snake-dark.svg"
+    width="100%"
+  />
 </picture>
 
 <p>
@@ -175,6 +197,8 @@ Mindset:   "Always learning, experimenting, and improving."
 </p>
 
 </div>
+
+
 ---
 
 ## 🎯 Currently
