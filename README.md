@@ -130,28 +130,45 @@ Mindset:   "Always learning, experimenting, and improving."
 
 <div align="center">
 
-### My GitHub Contributions
+### 🟪 My GitHub Contributions
 
 <p>
-  <i>A visual overview of my coding activity over the past 12 months.</i>
+  <i>A live overview of my coding activity over the past 12 months.</i>
 </p>
 
-<img
-  src="https://ghchart.rshah.org/A855F7/Saif-AlSaad"
-  alt="GitHub Contribution Graph"
-  width="100%"
-/>
+<!-- Contribution graph (auto switches for dark / light mode) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/A855F7/Saif-AlSaad" />
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/7E22CE/Saif-AlSaad" />
+  <img alt="Saif's GitHub Contribution Graph" src="https://ghchart.rshah.org/A855F7/Saif-AlSaad" width="100%" />
+</picture>
 
-<table>
-  <tr>
-    <td align="center">
-      <sub>⬜ Less Contributions</sub>
-    </td>
-    <td align="center">
-      <sub>🟪 More Contributions</sub>
-    </td>
-  </tr>
-</table>
+<!-- Legend like GitHub's own -->
+<p>
+  <sub>Less</sub>
+  <img src="https://img.shields.io/badge/-%20-ebedf0?style=flat-square" height="12" />
+  <img src="https://img.shields.io/badge/-%20-e9d5ff?style=flat-square" height="12" />
+  <img src="https://img.shields.io/badge/-%20-c084fc?style=flat-square" height="12" />
+  <img src="https://img.shields.io/badge/-%20-9333ea?style=flat-square" height="12" />
+  <img src="https://img.shields.io/badge/-%20-581c87?style=flat-square" height="12" />
+  <sub>More</sub>
+</p>
+
+<!-- Streak + stats -->
+<p>
+  <img
+    src="https://streak-stats.demolab.com?user=Saif-AlSaad&theme=transparent&ring=A855F7&fire=F97316&currStreakNum=A855F7&sideNums=A855F7&currStreakLabel=F97316&sideLabels=9CA3AF&dates=6B7280&border=A855F7&hide_border=false&border_radius=12"
+    alt="GitHub Streak"
+    height="170"
+  />
+</p>
+
+<!-- Animated snake eating the contribution boxes -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saif-AlSaad/Saif-AlSaad/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saif-AlSaad/Saif-AlSaad/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Saif-AlSaad/Saif-AlSaad/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 <p>
   <sub>⚡ Automatically updated based on my GitHub activity.</sub>
