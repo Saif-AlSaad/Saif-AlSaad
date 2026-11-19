@@ -1,0 +1,33 @@
+name: Update profile report
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:         # manual "Run workflow" button
+  push:
+    branches: [main]
+    paths: ["scripts/**"]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build report and refresh README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: Saif-AlSaad
+        run: python scripts/update_profile.py
+      - name: Commit changes
+        run: |
+          git config user.name  "profile-bot"
+          git config user.email "profile-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: refresh profile report"
+          git push

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 90" width="900" height="90" role="img" aria-label="Open to QA and software testing internships">
+<title>Open to QA &amp; Software Testing internships and junior roles</title>
+<defs><linearGradient id="fg" x1="0" x2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#101a33"/></linearGradient></defs>
+<style>text{font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;font-size:14px}.pulse{animation:p 2s ease-out infinite;transform-origin:44px 45px}@keyframes p{0%{opacity:.7;transform:scale(1)}100%{opacity:0;transform:scale(2.6)}}
+.chk{stroke-dasharray:40;stroke-dashoffset:40;animation:c 6s ease infinite}@keyframes c{0%{stroke-dashoffset:40}15%,85%{stroke-dashoffset:0}100%{stroke-dashoffset:40}}</style>
+<rect width="900" height="90" rx="14" fill="url(#fg)"/><rect x=".5" y=".5" width="899" height="89" rx="14" fill="none" stroke="#26314d"/>
+<circle class="pulse" cx="44" cy="45" r="7" fill="#2ee59d"/><circle cx="44" cy="45" r="7" fill="#2ee59d"/>
+<path class="chk" d="M40 45l3 3 6-7" fill="none" stroke="#0b1020" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="68" y="40" fill="#e6edf7" style="font-weight:700">All checks passed</text>
+<text x="68" y="62" fill="#7d8aa5">Open to QA / Software Testing internships &amp; junior roles</text>
+<text x="868" y="40" text-anchor="end" fill="#38bdf8" style="font-size:11px">"Quality is not an act, it is a habit."</text>
+</svg>
