@@ -14,7 +14,7 @@
 
 ---
 
-## `whoami`
+## `Whoami`
 
 I'm a **Software Engineering** student at **Daffodil International University**, majoring in **Software Quality Assurance & Testing**. I build full-stack projects, and I'm just as interested in the tests and automation that prove they work.
 
@@ -29,7 +29,7 @@ motto:     Always learning, experimenting, improving.
 
 ---
 
-## `saif.spec` — what I can do
+## `Saif.spec` — what I can do
 
 | Status | Capability | Evidence |
 |:--:|:--|:--|
