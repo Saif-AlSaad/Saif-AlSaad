@@ -55,65 +55,16 @@ Motto:     Always learning, experimenting, improving.
 
 ---
 
-## `test-cases/` — projects
+## `Test-Cases/` — projects
 
-<details open>
-<summary><b>TC-01 · 🛋️ RoomCraft (VirtualRoom)</b> — browser-based 3D room &amp; furniture planner</summary>
-<br/>
-
-Design a room and arrange furniture in 3D, right in the browser.
-
-`React` `TypeScript` `Three.js / React Three Fiber` `Zustand` · [**Repo →**](https://github.com/Saif-AlSaad/VirtualRoom)
-
-</details>
-
-<details open>
-<summary><b>TC-02 · 💰 FinTrack</b> — personal finance manager with a local AI layer</summary>
-<br/>
-
-Income and expense tracking, budgets, spending analysis and savings goals, with Supabase for cloud storage and auth. An Ollama-powered AI layer runs locally for anomaly detection and plain-English questions about your spending.
-
-`JavaScript` `Supabase` `Ollama` · [**Repo →**](https://github.com/Saif-AlSaad/FinTrack)
-
-</details>
-
-<details>
-<summary><b>TC-03 · 🏥 Apex Hospital Management System</b> — raw SQL, no ORM</summary>
-<br/>
-
-Full-stack hospital system on raw parameterized SQL: 37 tables in 3NF with triggers, procedures and functions.
-
-`React` `Express` `PostgreSQL`
-
-</details>
-
-<details>
-<summary><b>TC-04 · 💼 JobHub</b> — job placement platform (varsity group project)</summary>
-<br/>
-
-Built with a team as a university project.
-
-[**Repo →**](https://github.com/Saif-AlSaad/JobHub)
-
-</details>
-
-<details>
-<summary><b>TC-05 · 🎮 Wall-Rush</b> — game project</summary>
-<br/>
-
-[**Repo →**](https://github.com/Saif-AlSaad/Wall-Rush)
-
-</details>
-
-<details>
-<summary><b>TC-06 · 🌐 Portfolio</b> — saif.dev</summary>
-<br/>
-
-My personal site: About, Arsenal, Work, Journey, Research and Contact.
-
-`HTML` `CSS` `JavaScript` · [**Live →**](https://saif.dev) · [**Repo →**](https://github.com/Saif-AlSaad/Portfolio)
-
-</details>
+| Case ID | Project | Focus & Implementation | Tech Stack | Reference |
+|:--:|:--|:--|:--|:--:|
+| `TC-01` | [**🛋️ RoomCraft**](https://github.com/Saif-AlSaad/VirtualRoom)<br/><sub>3D Room Planner</sub> | Interactive browser-based 3D room and furniture planner with real-time layout & positioning | `React` `TypeScript`<br/>`Three.js` `Zustand` | [**Repo →**](https://github.com/Saif-AlSaad/VirtualRoom) |
+| `TC-02` | [**💰 FinTrack**](https://github.com/Saif-AlSaad/FinTrack)<br/><sub>Personal Finance & AI</sub> | Expense & budget manager with cloud sync and an Ollama-powered local AI layer for anomaly detection | `JavaScript` `Supabase`<br/>`Ollama` `Tailwind CSS` | [**Repo →**](https://github.com/Saif-AlSaad/FinTrack) |
+| `TC-03` | [**🏥 Apex HMS**](https://github.com/Saif-AlSaad/Hospital-Management-System)<br/><sub>Hospital System</sub> | Hospital management system on raw parameterized SQL (37 tables in 3NF with stored procedures & triggers) | `React` `Express`<br/>`PostgreSQL` `Raw SQL` | [**Repo →**](https://github.com/Saif-AlSaad/Hospital-Management-System) |
+| `TC-04` | [**💼 JobHub**](https://github.com/Saif-AlSaad/JobHub)<br/><sub>Placement Portal</sub> | Collaborative university platform connecting students with career and job placement opportunities | `JavaScript` `Node.js`<br/>`Express` `MySQL` | [**Repo →**](https://github.com/Saif-AlSaad/JobHub) |
+| `TC-05` | [**🎮 Wall-Rush**](https://github.com/Saif-AlSaad/Wall-Rush)<br/><sub>Interactive Game</sub> | Fast-paced browser arcade runner featuring dynamic obstacle avoidance and collision mechanics | `JavaScript` `HTML5`<br/>`CSS3` `Canvas` | [**Repo →**](https://github.com/Saif-AlSaad/Wall-Rush) |
+| `TC-06` | [**🌐 Portfolio**](https://github.com/Saif-AlSaad/Portfolio)<br/><sub>saif.dev</sub> | Personal developer portfolio site featuring QA testing specs, project archives, and contact portal | `HTML5` `CSS3`<br/>`JavaScript` `TypeScript` | [**Live ↗**](https://saif.dev)<br/>[**Repo →**](https://github.com/Saif-AlSaad/Portfolio) |
 
 ---
 
