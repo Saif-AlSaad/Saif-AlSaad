@@ -19,12 +19,12 @@
 I'm a **Software Engineering** student at **Daffodil International University**, majoring in **Software Quality Assurance & Testing**. I build full-stack projects, and I'm just as interested in the tests and automation that prove they work.
 
 ```yaml
-name:      Saif Al Saad
-studying:  BSc Software Engineering @ Daffodil International University
-major:     Software Quality Assurance & Testing
-daily:     [manual testing, bug reporting, agile testing, full-stack builds]
-learning:  [Playwright, API testing, CI/CD, system design]
-motto:     Always learning, experimenting, improving.
+Name:      Saif Al Saad
+Studying:  BSc Software Engineering @ Daffodil International University
+Major:     Software Quality Assurance & Testing
+Daily:     [manual testing, bug reporting, agile testing, full-stack builds]
+Learning:  [Playwright, API testing, CI/CD, system design]
+Motto:     Always learning, experimenting, improving.
 ```
 
 ---
