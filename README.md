@@ -80,8 +80,8 @@ Motto:     Always learning, experimenting, improving.
 <!--RECENT:START-->
 | Repo | What it is | Lang | Last push |
 |:--|:--|:--|:--|
-| [`SeaDrift`](https://github.com/Saif-AlSaad/SeaDrift) | DRIFT - Sail the dusk sea, gather light before the lamp goes out. A quiet 3D voyage. | TypeScript | 22 Nov 2026 |
-| [`JobHub`](https://github.com/Saif-AlSaad/JobHub) | — | JavaScript | 21 Nov 2026 |
+| [`JobHub`](https://github.com/Saif-AlSaad/JobHub) | — | JavaScript | 24 Nov 2026 |
+| [`SeaDrift`](https://github.com/Saif-AlSaad/SeaDrift) | DRIFT - Sail the dusk sea, gather light before the lamp goes out. A quiet 3D voyage. | TypeScript | 24 Nov 2026 |
 | [`Hospital-Management-System`](https://github.com/Saif-AlSaad/Hospital-Management-System) | — | JavaScript | 13 Nov 2026 |
 | [`Portfolio`](https://github.com/Saif-AlSaad/Portfolio) | — | TypeScript | 01 Nov 2026 |
 | [`HungryMan`](https://github.com/Saif-AlSaad/HungryMan) | A game where user need to hunt bugs and report them.  | TypeScript | 29 Oct 2026 |
