@@ -8,15 +8,15 @@
 <text x="36" y="86" class="big">24</text><text x="36" y="106" class="lbl">REPOS</text>
 <text x="186" y="86" class="big">8</text><text x="186" y="106" class="lbl">STARS</text>
 <text x="336" y="86" class="big">1</text><text x="336" y="106" class="lbl">FOLLOWERS</text>
-<text x="486" y="86" class="big">374</text><text x="486" y="106" class="lbl">CONTRIBUTIONS · 12 MO</text>
+<text x="486" y="86" class="big">376</text><text x="486" y="106" class="lbl">CONTRIBUTIONS · 12 MO</text>
 <text x="36" y="132" class="lbl">LANGUAGE COVERAGE</text>
 <clipPath id="c"><rect x="36" y="140" width="828" height="10" rx="5"/></clipPath><g clip-path="url(#c)">
-<rect x="36.0" y="140" width="428.7" height="10" fill="#3178c6"/>
-<rect x="464.7" y="140" width="229.1" height="10" fill="#f1e05a"/>
-<rect x="693.7" y="140" width="85.3" height="10" fill="#3572A5"/>
-<rect x="779.1" y="140" width="37.9" height="10" fill="#8b5cf6"/>
-<rect x="817.0" y="140" width="19.0" height="10" fill="#b07219"/>
-<rect x="836.0" y="140" width="14.5" height="10" fill="#e34c26"/>
+<rect x="36.0" y="140" width="430.5" height="10" fill="#3178c6"/>
+<rect x="466.5" y="140" width="228.0" height="10" fill="#f1e05a"/>
+<rect x="694.5" y="140" width="84.9" height="10" fill="#3572A5"/>
+<rect x="779.4" y="140" width="37.7" height="10" fill="#8b5cf6"/>
+<rect x="817.2" y="140" width="19.0" height="10" fill="#b07219"/>
+<rect x="836.1" y="140" width="14.5" height="10" fill="#e34c26"/>
 </g>
 <circle cx="41" cy="170" r="4.5" fill="#3178c6"/><text x="52" y="174" class="w" style="font-size:12px">TypeScript <tspan style="fill:#7d8aa5">52%</tspan></text>
 <circle cx="187" cy="170" r="4.5" fill="#f1e05a"/><text x="198" y="174" class="w" style="font-size:12px">JavaScript <tspan style="fill:#7d8aa5">28%</tspan></text>
@@ -394,5 +394,5 @@
 <rect x="848.4" y="249.2" width="13.022641509433962" height="13.022641509433962" rx="3" fill="#5eead4"/>
 <rect x="848.4" y="264.9" width="13.022641509433962" height="13.022641509433962" rx="3" fill="#14b8a6"/>
 <rect x="848.4" y="280.5" width="13.022641509433962" height="13.022641509433962" rx="3" fill="#0f766e"/>
-<rect x="848.4" y="296.1" width="13.022641509433962" height="13.022641509433962" rx="3" fill="#151c2c"/>
+<rect x="848.4" y="296.1" width="13.022641509433962" height="13.022641509433962" rx="3" fill="#134e4a"/>
 </svg>
